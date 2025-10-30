@@ -16,13 +16,13 @@ When the deadline is approaching commit your solution and a report document.
 
 ## Compiling and Running the Framework
 
-*information about installing git, python versions, pip install specific libraries, etc here*
+*information about installing git, python versions, pip install specific libraries, etc here* <br />
 We recommend using Visual Studio Code as an IDE.
 If you want to use a different operating system or IDE, you will have to port parts of the code yourself.
 
 
 ## Contact
 
-Yousef Rajeh: yousef.rajeh@kaust.edu.sa
-Reem *Fill out your info*
-Omar *Fill out your info*
+Yousef Rajeh: yousef.rajeh@kaust.edu.sa <br />
+Reem *Fill out your info* <br />
+Omar *Fill out your info* <br />
